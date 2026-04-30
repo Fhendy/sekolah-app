@@ -43,4 +43,18 @@ Sistem Informasi Sekolah berbasis Laravel untuk SMK FH NUSANTARA. Website ini me
 | **html2pdf.js** | Generate PDF |
 | **Laragon/XAMPP** | Local Development |
 
-## 📁 Struktur Folder
+
+## 🚀 Instalasi
+
+### Persyaratan
+- PHP >= 8.1
+- Composer
+- MySQL
+- Node.js & NPM (opsional, untuk assets)
+
+### Langkah Instalasi
+
+1. **Clone Repository**
+```bash
+git clone https://github.com/username/sekolah-app.git
+cd sekolah-app
